@@ -1,0 +1,5 @@
+DCMotor.c:6:6:writeGPIO	16	static
+DCMotor.c:11:6:toggleGPIO	16	static
+DCMotor.c:20:6:initDCMotor	24	static
+DCMotor.c:32:6:setDCMotorSpeed	24	static
+DCMotor.c:47:6:setDCMotorDirection	24	static

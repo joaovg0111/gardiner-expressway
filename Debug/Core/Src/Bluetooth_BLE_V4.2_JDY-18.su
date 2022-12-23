@@ -1,0 +1,13 @@
+Bluetooth_BLE_V4.2_JDY-18.c:47:6:setupBLE	16	static
+Bluetooth_BLE_V4.2_JDY-18.c:53:6:sendInstruction	32	static
+Bluetooth_BLE_V4.2_JDY-18.c:62:6:setName	16	static
+Bluetooth_BLE_V4.2_JDY-18.c:66:6:setRole	24	static
+Bluetooth_BLE_V4.2_JDY-18.c:72:6:setBaud	24	static
+Bluetooth_BLE_V4.2_JDY-18.c:78:6:setBeaconUuid	16	static
+Bluetooth_BLE_V4.2_JDY-18.c:82:6:setBeaconTramsmittingPower	32	static
+Bluetooth_BLE_V4.2_JDY-18.c:91:15:masterScanForSlaves	72	static
+Bluetooth_BLE_V4.2_JDY-18.c:144:6:connectMasterToSlave	24	static
+Bluetooth_BLE_V4.2_JDY-18.c:150:6:connectMasterToSlaveFromMACAddress	16	static
+Bluetooth_BLE_V4.2_JDY-18.c:154:8:str_split	56	static
+Bluetooth_BLE_V4.2_JDY-18.c:202:6:getSubstring	40	static
+Bluetooth_BLE_V4.2_JDY-18.c:230:6:sendToLogger	24	static

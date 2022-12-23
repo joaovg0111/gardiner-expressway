@@ -1,0 +1,2 @@
+Servo.c:3:6:set_servo_angle	40	static
+Servo.c:22:6:set_servo_pwm	56	static
