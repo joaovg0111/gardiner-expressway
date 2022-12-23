@@ -1,7 +1,7 @@
-#Gardiner Expressway - Barco Autônomo
+# Gardiner Expressway - Barco Autônomo
 
 O Gardiner Expressway é um barco autônomo desenvolvido por João Gomes, Eduardo Cardoso e Tiago Rezende para a disciplina de Programação de Sistemas Embarcados no semestre 2022/2. Ele utiliza uma série de sensores e periféricos para se locomover de forma autônoma e comunicar-se com outros dispositivos.
-Características
+# Características
 
     Motor DC para controlar a velocidade do barco
     Servo motor para controlar a direção do barco
